@@ -1,0 +1,5 @@
+export KUBECONFIG=$KUBECONFIG:/users/cheungd/desktop/tanzu/kubeconfig-azure-tkg-wc.yml
+
+kubectl config view
+
+kubectl get nodes -A
