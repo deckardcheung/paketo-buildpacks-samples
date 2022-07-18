@@ -10,7 +10,7 @@ app.get('/', (request, response) => {
     <title>Tanzu Build Service Demo - Powered By Paketo Buildpacks and Cloud Native Runtimes</title>
   </head>
   <body>
-    <img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://paketo.io/images/paketo-logo-full-color.png"></img>
+    <img style="display: block; margin-left: auto; margin-right: auto; width: 20%;" src="https://paketo.io/images/paketo-logo-full-color.png"></img>
   </body>
 </html>`);
 });
